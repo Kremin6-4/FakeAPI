@@ -1,0 +1,22 @@
+{
+    "images": [
+      {
+        "id": 1,
+        "src": "https://i.ibb.co/9VPnXgX/2021-01-12-111145.png",
+        "alt": "img1",
+        "url": "https://confident-shannon-bf424b.netlify.app/"
+      },
+      {
+        "id": 2,
+        "src": "https://i.ibb.co/d0kZvYC/2021-01-11-003314.png",
+        "alt": "img2",
+        "url": "http://kreminzs.zzz.com.ua/time.html"
+      },
+      {
+        "id": 3,
+        "src": "https://i.ibb.co/gr5bx5P/2021-01-12-135056.png",
+        "alt": "img3",
+        "url": "http://kreminzs.zzz.com.ua/about"
+      }
+    ]
+  }
